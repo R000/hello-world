@@ -1,2 +1,2 @@
-# hello-world
-just another repo
+I'm Ruth.
+Web Developer. Writer. Systems Designer.
